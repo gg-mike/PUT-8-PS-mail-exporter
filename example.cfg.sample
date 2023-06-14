@@ -1,0 +1,7 @@
+SRC_USERNAME=alice@gmail.com
+SRC_PASSWORD=pass_alice
+SRC_FOLDER=ForBob
+DST_USERNAME=bob@gmail.com
+DST_PASSWORD=pass_bob
+DST_FOLDER=FromAlice
+VERBOSE=0
